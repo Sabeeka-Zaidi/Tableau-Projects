@@ -30,4 +30,4 @@ Based on the visualizations, several prominent market trends stand out across th
 * **Time-Series Analysis:** Formatting continuous date fields to track and forecast revenue plateaus across a fiscal calendar.
 
 ## Live Interactive Dashboard
-👉 [Click here to view and interact with the live dashboard on Tableau Public]([https://public.tableau.com/app/profile/sabeeka.zaidi/viz/Book1_17847155244840/Dashboard1]
+👉 [Click here to view and interact with the live dashboard on Tableau Public](https://public.tableau.com/app/profile/sabeeka.zaidi/viz/Book1_17847155244840/Dashboard1)
